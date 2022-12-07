@@ -8,63 +8,22 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In this project i know i have lacked at execution part and I really feel that I am more kind of detailed person so as of i didn't got some clue to dig into real part to visualise data in my way as of i am searching towards it to explore more ways show that I can show data more fluently and in detailed and animated way as I am an artist.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+First part of this is fetching data from the Google sheet in which asks user, to enter spreadsheet url and select type of visualisation they want if we will have category
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Second part is dealing with data and conversion to object and array and adding some data from api such as Google maps or mapbox or ....
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+And then , using that data to visualise using any library pre built-in or through our own css to build graph or something.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+see i have researched a lot and gone through various libraries and their functioning like deck.gl
+and library developed by uber like kepler.gl but their working is bit complex and to get its breakdown to use as per our usage to have weekely data inlcuded in it it will take some time . even if we are doing geostationary ploting it will take some time .i am exploring that part as well as looking to desing a box kinda css animation that will show the data as packet and as per population density it will fill up the box.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+for example i had past experience with website https://www.quicksoftwaresolutions.au/ in which i had faced many difficulties like in its header their is a scroll animation in each page .
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+so at last i must say i tried my best to explore and i would like to thank the team to get me included in this externship; where i explored this much and as of there was midsem so i didnt got that much time to complete it or execute properly but will definetely work upon this in future and once i will complete some work i wil show in on my own.
