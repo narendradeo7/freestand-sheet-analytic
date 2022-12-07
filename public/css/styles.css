@@ -1,0 +1,13 @@
+body{
+background-color: rgb(196, 196, 196);
+}
+
+/* styling of the preloader  */
+.Preloader{
+    width: 200px !important;
+    position: absolute;
+    top: 40%;
+    left: 42%;
+
+}
+
